@@ -1,0 +1,179 @@
+.header{
+    display: flex;
+    margin: 0px;
+}
+.logo{
+    width: 150px;
+    cursor: pointer;
+    /* margin-top: 15px;
+    margin-left: 60px; */
+}
+ .left{
+    /* display: flex; */
+    /* flex: 1; */
+    padding-left: 55px;
+    padding-top: 15px;
+    width: 500px;
+    
+ }
+.right{
+    font-family: Inter,serif;
+    display: flex;
+    margin-left: 100px;
+    flex: 1;
+     
+}
+.signup{
+    padding: 20px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: color 0.15s;
+}
+.signup:hover{
+    color: #387ed1 ;
+}
+.about{
+    padding: 20px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: color 0.15s;
+}
+.about:hover{
+    color: #387ed1;
+}
+.products{
+    padding: 20px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: color 0.15s;
+}
+.products:hover{
+    color: #387ed1;
+}
+.price{
+    padding: 20px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: color 0.15s;
+}
+.price:hover{
+    color: #387ed1;
+}
+.support{
+    padding: 20px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: color 0.15s;
+}
+.support:hover{
+    color: #387ed1;
+}
+.menu{
+    padding: 20px;
+    width: 25px;
+    cursor: pointer;
+}
+body{
+    font-family: Inter,serif;
+    color: rgb(102, 102, 102);
+}
+
+.main_part{
+    padding-top: 80px;
+    margin-left: 81px;
+    margin-right: 81px;
+    /* display: inline block; */
+    /* background-color: #387ed1; */
+}
+ 
+/* .main_body{
+    display: flex;
+    justify-content: space-around;
+    /* text-align: center; */
+/* } */ */
+.intraday-pic{
+    width: 50px;
+}
+/* .text{
+    color: rgb(102,102,102);
+    display: block;
+    font-family: Inter,serif;
+    font-size: 16px;
+    font-weight: 400 ;
+    line-height: 29px;
+    margin-block-end: 15px;
+    margin-block-start: 16px;
+    margin-bottom: 15px;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+    text-align: center;
+    text-size-adjust: 100%;
+
+} */
+/* h2{
+    text-align: center;
+    font-family: Inter,serif;
+    font-size: 28px;
+    font-weight: 500;
+
+} */
+
+
+
+.all-div{
+    /* background-color: aqua; */
+    padding-top: 180px;
+    margin-left: 81px;
+    margin-right: 81px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
+.equity1{
+    display: inline-block;
+    /* margin-right: 20px; */
+}
+.intraday1{
+    display: inline-block;
+    /* margin-right: 25px; */
+}
+.intraday-pic1{
+    margin: 0 auto;
+    display: block;
+}
+.mutualfund1{
+    display: inline-block;
+    
+}
+.price-pic1{
+    /* padding-left: 90px; */
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+}
+.intraday-pic1{
+    width: 250px;
+}
+h2{
+    color: rgb(66,66,66);
+    text-align: center;
+    font-family: Inter,serif;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.text1{
+    color: rgb(102,102,102);
+    display: block;
+    font-family: Inter,serif;
+    font-size: 16px;
+    font-weight: 400 ;
+    line-height: 29px;
+    margin-block-end: 15px;
+    margin-block-start: 16px;
+    margin-bottom: 15px;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+    text-align: center;
+    text-size-adjust: 100%;
+}
